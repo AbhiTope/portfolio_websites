@@ -28,7 +28,7 @@ body{
 
 .introContainer{
     height: 240px;
-    border-bottom: thick double black; 
+    /*border-bottom: thick double black;*/ 
     display: flex;
 }
 

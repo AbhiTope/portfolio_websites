@@ -4,5 +4,7 @@
 }
 
 body{
+    margin: 0;
+    height: 97vh;
     background: linear-gradient(to bottom, #d6e5d6 56%, #f9c482 100%);
 }

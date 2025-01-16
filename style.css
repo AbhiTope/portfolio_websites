@@ -3,16 +3,23 @@ body{
     margin: 0;
     height: 97vh;
     background: linear-gradient(to bottom, #d6e5d6 56%, #f9c482 100%);
+    font-family: monospace;
 }
 
 .intro{
     width: 80%;
+    font-size: 120%;
+    margin: 2%;
 }
 
 .intro li{
     list-style-type: none;
 }
 
+.intro a{
+    text-decoration: none;
+    color: black;
+}
 
 #profileImage{
     height: 100%;
@@ -20,8 +27,9 @@ body{
 }
 
 .introContainer{
-    height: 200px;
-    border-bottom: 1px solid red;
+    height: 240px;
+    border-bottom: thick double black; 
+    display: flex;
 }
 
 

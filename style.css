@@ -1,10 +1,16 @@
 
-.intro li{
-    list-style-type: none;
-}
-
 body{
     margin: 0;
     height: 97vh;
     background: linear-gradient(to bottom, #d6e5d6 56%, #f9c482 100%);
 }
+
+.intro li{
+    list-style-type: none;
+}
+
+#profile_image{
+    height: 100px;
+    border-radius: 50%;
+}
+

@@ -5,12 +5,25 @@ body{
     background: linear-gradient(to bottom, #d6e5d6 56%, #f9c482 100%);
 }
 
+.intro{
+    width: 80%;
+}
+
 .intro li{
     list-style-type: none;
 }
 
-#profile_image{
-    height: 100px;
+
+#profileImage{
+    height: 100%;
     border-radius: 50%;
 }
+
+.introContainer{
+    height: 200px;
+    border-bottom: 1px solid red;
+}
+
+
+
 

@@ -1,8 +1,8 @@
 
-li{
+.intro li{
     list-style-type: none;
 }
 
 body{
-    background-color: red;
+    background: linear-gradient(to bottom, #d6e5d6 56%, #f9c482 100%);
 }
